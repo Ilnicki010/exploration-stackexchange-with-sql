@@ -21,7 +21,7 @@ Description:
 Size: 658.4 MB | Tables: 8 | # of rows: 1,027,838 | # of columns: 71
 
 Graph:
-![Data chart](http://url/to/img.png)
+![Data chart](https://raw.githubusercontent.com/Ilnicki010/exploration-stackexchange-with-sql/main/Chart.png)
 
 Description of database's schema: https://meta.stackexchange.com/questions/2677/database-schema-documentation-for-the-public-data-dump-and-sede
 
